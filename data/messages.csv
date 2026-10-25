@@ -1,0 +1,61 @@
+text,category
+My card is being used online to make a bunch of purchases! Someone else is using it fraudulently. Can you help me freeze it?,compromised_card
+How do I find the exchange rate?,exchange_rate
+The app reverted what I topped up.,top_up_reverted
+What do I do to stop unauthorized transactions on my card? I was never in the place from which the transactions on my bill were made and I never made them. Please help!,compromised_card
+How long does it take to get my card? Can I choose when to receive it?,card_delivery_estimate
+What is the tracking number for my card that was mailed?,card_arrival
+The exchange rate would be?,exchange_rate
+Im very upset as my top-up was canceled and I have no idea why.,top_up_reverted
+I think my card was stolen.,lost_or_stolen_card
+Please tell me which cash machines will allow me to change my pin.,change_pin
+How do I track my card?,card_arrival
+Send my card as soon as you are able to.,card_delivery_estimate
+What exchange rate do you use?,exchange_rate
+Some idiot stole my card.,lost_or_stolen_card
+Where did your guys exchange rates come from?,exchange_rate
+How do I unblock my pin after entering it wrong too many times?,pin_blocked
+"My top-up failed, WHY?",top_up_failed
+What is the difference between standard and express delivery?,card_delivery_estimate
+How can I resolve a problem where my card won't go through at all?,card_not_working
+What kind of foreign exchange rate will I get when I exchange my money?,exchange_rate
+please tell me why my top-up failed.,top_up_failed
+"Someone has my card number, freeze my account.",compromised_card
+"When I put the wrong pin too much, I got blocked, so can you help me unblock my pin",pin_blocked
+"I see my top-up was canceled, but why?",top_up_reverted
+I need to change my PIN.,change_pin
+What happened to where my top-up was canceled?,top_up_reverted
+I think my child used my card while I wasn't home.,compromised_card
+My card doesn't accept any transaction at all. What's wrong??,card_not_working
+"I have been waiting longer than expected for my bank card, could you provide information on when it will arrive?",card_arrival
+What is the exchange rate like on this app?,exchange_rate
+How do I unblock my card using the app?,card_not_working
+"Heyy I tried to top up with my card today but it failed! I just got the couple days before but it has worked last time. What's going on, can you double check please?",top_up_failed
+How do I change my PIN?,change_pin
+How do I know if my top up was unsuccessful?,top_up_failed
+When are cards delivered?,card_delivery_estimate
+"My card is broke, what do I do?",card_not_working
+How do I freeze my card using the app?,compromised_card
+I believe my credit card was stolen.,lost_or_stolen_card
+Nothing goes through on my card.,card_not_working
+How can I unblock a blocked pin number for my account?,pin_blocked
+Why didn`t my topup go through?,top_up_failed
+"I topped up my account and even though it was confirmed at first, the money isn't there anymore! why did this happen, and where did my money go?",top_up_reverted
+Oh no!  I lost my card!  Help!,lost_or_stolen_card
+"I did not get my card yet, is it lost?",card_arrival
+Why is my card not working?,card_not_working
+How do I get my PIN unlocked?,pin_blocked
+I think someone has access to my card numbers that shouldn't.,compromised_card
+Can I have my card delivered on a specific day?,card_delivery_estimate
+Help me set up a new PIN?,change_pin
+Help!  I can't find my card.,lost_or_stolen_card
+I would like to change my pin.,change_pin
+I would like to change my card PIN.,change_pin
+When will my card arrive?,card_delivery_estimate
+How do I deal with a stolen card?,lost_or_stolen_card
+Causes of top-up cancellation,top_up_reverted
+My card has not arrived yet.,card_arrival
+How long should my new card take to arrive?,card_arrival
+I'm pretty sure my top up failed. How do I fix this?,top_up_failed
+What do I do if the bank machine won't accept my PIN attempts anymore?,pin_blocked
+How do I deal with a blocked PIN?,pin_blocked

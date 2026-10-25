@@ -1,0 +1,21 @@
+text,category
+"I haven't received my card yet, how long does it normally take?",card_delivery_estimate
+The app has rejected my top up.,top_up_failed
+Where can I update my pin number?,change_pin
+What do you use to figure out the exchange rate for the card?,exchange_rate
+How long will it take to deliver to the US?,card_delivery_estimate
+Please help me unblock my pin which I put the wrong one too many times.,pin_blocked
+What's going on with my card? I've tried multiple times and it never goes through.,card_not_working
+I don't think my top up worked,top_up_failed
+I would like to change the the PIN on my card.,change_pin
+I was expecting my new card by now.,card_arrival
+Need help with a stolen card.,lost_or_stolen_card
+How do I track the card you sent me?,card_arrival
+Why has my top up been returned?,top_up_reverted
+"I thought you offer crypto top up but it doesn't seem to be right ? Money just disappeared from my account, How it would work ?",top_up_reverted
+What do I do if I believe to be a victim of credit card fraud?,compromised_card
+I can't figure out how to unblock my pin number. Can you help me?,pin_blocked
+How do I report possible fraudulent activity on my account?,compromised_card
+I can't find my card! Can you help?,lost_or_stolen_card
+What are the current exchange rates?,exchange_rate
+How do I check security settings on my card?,card_not_working
